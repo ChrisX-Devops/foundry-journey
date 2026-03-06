@@ -14,13 +14,12 @@
 **Right:** `function foo(uint[] calldata x)` — saves client 10-50% gas
 
 ## Test Results
-- ✅ 4/4 tests passing
+- ✅ 2/2 tests passing
 - ✅ Gas-optimized patterns demonstrated
 - ✅ Ready for production contract work
 
 ## Files
 - `DataLocations.sol`: Educational contract with all 3 locations
-- `DataLocations.t.sol`: Comprehensive test suite
 
 ## Next
 Day 3: Error handling, events, modifiers (professional standards)
