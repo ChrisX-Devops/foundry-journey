@@ -1,7 +1,5 @@
 # Day 2: Data Locations Mastery ✅
 
-## Client-Ready Skills Learned
-
 ### Storage vs Memory vs Calldata
 | Location | Cost | When to Use | Client Impact |
 |----------|------|-------------|---------------|
